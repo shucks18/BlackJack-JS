@@ -1,0 +1,42 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url(table.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    font-weight: bold;
+}   
+
+#message-el {
+    font-style: italic;
+}
+
+#Buttonlol {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
+
+#newcard {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
+
+#red-marker {
+    color: yellow;
+}
